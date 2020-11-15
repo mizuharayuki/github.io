@@ -1,0 +1,4 @@
+baseURL = "http://mizuharayuki.github.io/"
+languageCode = "ja-jp"
+title = "mizuharayuki.io"
+theme = "etch"
