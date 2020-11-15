@@ -6,10 +6,22 @@
     <description>Recent content on mizuharayuki.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
+    <lastBuildDate>Sun, 15 Nov 2020 15:09:27 +0900</lastBuildDate>
     
 	<atom:link href="http://mizuharayuki.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
+    
+    <item>
+      <title>20201115 test post</title>
+      <link>http://mizuharayuki.github.io/posts/20201115/</link>
+      <pubDate>Sun, 15 Nov 2020 15:09:27 +0900</pubDate>
+      
+      <guid>http://mizuharayuki.github.io/posts/20201115/</guid>
+      <description>dog 犬のことを考えている。
+cat ネコチャン。
+bird トリ。</description>
+    </item>
     
     
   </channel>
