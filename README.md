@@ -1,1 +1,1 @@
-# mizuharayuki.github.io
+mizuharayuki.github.io
